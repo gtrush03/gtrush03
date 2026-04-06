@@ -73,10 +73,10 @@ AI agents that inhabit 3D Gaussian splat environments, gesture-tracked world exp
 
 | Event | Project | Built |
 |-------|---------|-------|
+| 🏆 **Genie Hackathon** | Genie | Agentic social media — autonomous agents deploying products from a live firehose |
+| 🏆 **Claw Hack NYC** | Greenroom | 3 AI agents in encrypted group chat — autonomous production studio |
 | 🏆 **TRAE x MiniMax NYC** | Oracle Society | AI agents in photorealistic 3D Gaussian splat worlds |
-| 🏆 **TRAE x MiniMax NYC** | Oracle World Explorer | Gesture + head-tracked spatial AI navigator |
-| 🏆 **Claw Hack NYC** | Greenroom | Multi-agent encrypted production studio |
-| 🏆 **Unlink x Monad NYC** | Ghost Treasury | Autonomous blockchain trading agent |
+| 🏆 **WorldLabs Open World** | Oracle World Explorer | Gesture + head-tracked spatial AI navigator in 3D environments |
 
 ---
 
