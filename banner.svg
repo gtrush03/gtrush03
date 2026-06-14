@@ -89,32 +89,25 @@
   <!-- ===== WORDMARK ===== -->
   <!-- Bloom layer (blurred copy of the text, sits behind) -->
   <g filter="url(#bloom)" opacity="0.55">
-    <text x="600" y="108" text-anchor="middle"
+    <text x="600" y="118" text-anchor="middle"
       font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700"
       font-size="62" letter-spacing="14" fill="#E6CF94">GEORGE TRUSHEVSKIY</text>
   </g>
 
   <!-- Crisp foil face -->
   <g filter="url(#softGlow)">
-    <text x="600" y="108" text-anchor="middle"
+    <text x="600" y="118" text-anchor="middle"
       font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700"
       font-size="62" letter-spacing="14" fill="url(#foilLit)">GEORGE TRUSHEVSKIY</text>
   </g>
 
   <!-- Foil baseline rule under the wordmark -->
   <g filter="url(#softGlow)">
-    <rect x="360" y="138" width="480" height="2" rx="1" fill="url(#foil)"/>
+    <rect x="360" y="148" width="480" height="2" rx="1" fill="url(#foil)"/>
   </g>
   <!-- brass end-caps on the rule -->
-  <circle cx="360" cy="139" r="2.6" fill="#E6CF94" filter="url(#softGlow)"/>
-  <circle cx="840" cy="139" r="2.6" fill="#E6CF94" filter="url(#softGlow)"/>
-
-  <!-- Subline: SynthOS readout -->
-  <g filter="url(#softGlow)">
-    <text x="600" y="170" text-anchor="middle"
-      font-family="'Helvetica Neue', Arial, sans-serif" font-weight="600"
-      font-size="17" letter-spacing="7.5" fill="url(#foilSub)">SYNTHOS · HIRE NO ONE. RUN EVERYTHING.</text>
-  </g>
+  <circle cx="360" cy="149" r="2.6" fill="#E6CF94" filter="url(#softGlow)"/>
+  <circle cx="840" cy="149" r="2.6" fill="#E6CF94" filter="url(#softGlow)"/>
 
   <!-- Instrument-readout corner brackets (restrained foil) -->
   <g filter="url(#softGlow)" stroke="url(#foil)" stroke-width="2" stroke-opacity="0.7" fill="none" stroke-linecap="round">
