@@ -1,0 +1,131 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="George Trushevskiy — SynthOS">
+  <defs>
+    <!-- Obsidian field with a faint warm core where the light pools -->
+    <radialGradient id="obsidian" cx="50%" cy="46%" r="72%">
+      <stop offset="0%" stop-color="#100E0A"/>
+      <stop offset="42%" stop-color="#0A0A0B"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </radialGradient>
+
+    <!-- Foil gold: deep brass -> TRU gold -> champagne -> polish highlight -->
+    <linearGradient id="foil" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%"  stop-color="#5E5236"/>
+      <stop offset="34%" stop-color="#928466"/>
+      <stop offset="70%" stop-color="#D8C48E"/>
+      <stop offset="100%" stop-color="#F2E8C8"/>
+    </linearGradient>
+
+    <!-- Brighter LED-readable foil for the wordmark face -->
+    <linearGradient id="foilLit" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%"  stop-color="#928466"/>
+      <stop offset="45%" stop-color="#D8C48E"/>
+      <stop offset="80%" stop-color="#E6CF94"/>
+      <stop offset="100%" stop-color="#F2E8C8"/>
+    </linearGradient>
+
+    <!-- Champagne fade for the subline -->
+    <linearGradient id="foilSub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#B5A578"/>
+      <stop offset="50%" stop-color="#E6CF94"/>
+      <stop offset="100%" stop-color="#B5A578"/>
+    </linearGradient>
+
+    <!-- LED bloom: soft glow emitted by the gold -->
+    <filter id="bloom" x="-30%" y="-120%" width="160%" height="340%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+      </feMerge>
+    </filter>
+
+    <!-- Tighter inner glow for crisp readable text -->
+    <filter id="softGlow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="g"/>
+      <feMerge>
+        <feMergeNode in="g"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Dot-matrix grid: faint warm pixels, like an unlit LED panel -->
+    <pattern id="dotgrid" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#D8C48E" fill-opacity="0.06"/>
+    </pattern>
+
+    <!-- Vignette to sink the edges into black -->
+    <radialGradient id="vignette" cx="50%" cy="48%" r="66%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.92"/>
+    </radialGradient>
+
+    <!-- Light pool behind the wordmark -->
+    <radialGradient id="pool" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D8C48E" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#928466" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#928466" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Panel -->
+  <rect x="0" y="0" width="1200" height="220" rx="14" fill="url(#obsidian)"/>
+  <rect x="0" y="0" width="1200" height="220" rx="14" fill="url(#dotgrid)"/>
+
+  <!-- single light source pooling behind the mark -->
+  <ellipse cx="600" cy="98" rx="520" ry="120" fill="url(#pool)"/>
+
+  <!-- Scanlines: faint horizontal LED rows -->
+  <g opacity="0.05" fill="#E6CF94">
+    <rect x="0" y="40"  width="1200" height="1"/>
+    <rect x="0" y="64"  width="1200" height="1"/>
+    <rect x="0" y="88"  width="1200" height="1"/>
+    <rect x="0" y="112" width="1200" height="1"/>
+    <rect x="0" y="136" width="1200" height="1"/>
+    <rect x="0" y="160" width="1200" height="1"/>
+  </g>
+
+  <!-- ===== WORDMARK ===== -->
+  <!-- Bloom layer (blurred copy of the text, sits behind) -->
+  <g filter="url(#bloom)" opacity="0.55">
+    <text x="600" y="108" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700"
+      font-size="62" letter-spacing="14" fill="#E6CF94">GEORGE TRUSHEVSKIY</text>
+  </g>
+
+  <!-- Crisp foil face -->
+  <g filter="url(#softGlow)">
+    <text x="600" y="108" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-weight="700"
+      font-size="62" letter-spacing="14" fill="url(#foilLit)">GEORGE TRUSHEVSKIY</text>
+  </g>
+
+  <!-- Foil baseline rule under the wordmark -->
+  <g filter="url(#softGlow)">
+    <rect x="360" y="138" width="480" height="2" rx="1" fill="url(#foil)"/>
+  </g>
+  <!-- brass end-caps on the rule -->
+  <circle cx="360" cy="139" r="2.6" fill="#E6CF94" filter="url(#softGlow)"/>
+  <circle cx="840" cy="139" r="2.6" fill="#E6CF94" filter="url(#softGlow)"/>
+
+  <!-- Subline: SynthOS readout -->
+  <g filter="url(#softGlow)">
+    <text x="600" y="170" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-weight="600"
+      font-size="17" letter-spacing="7.5" fill="url(#foilSub)">SYNTHOS · HIRE NO ONE. RUN EVERYTHING.</text>
+  </g>
+
+  <!-- Instrument-readout corner brackets (restrained foil) -->
+  <g filter="url(#softGlow)" stroke="url(#foil)" stroke-width="2" stroke-opacity="0.7" fill="none" stroke-linecap="round">
+    <path d="M40 28 L40 50 M40 28 L62 28"/>
+    <path d="M1160 28 L1160 50 M1160 28 L1138 28"/>
+    <path d="M40 192 L40 170 M40 192 L62 192"/>
+    <path d="M1160 192 L1160 170 M1160 192 L1138 192"/>
+  </g>
+
+  <!-- Sink the edges -->
+  <rect x="0" y="0" width="1200" height="220" rx="14" fill="url(#vignette)"/>
+  <!-- thin foil frame -->
+  <rect x="0.75" y="0.75" width="1198.5" height="218.5" rx="13.25" fill="none" stroke="url(#foil)" stroke-opacity="0.5" stroke-width="1.5"/>
+</svg>
