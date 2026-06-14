@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&color=0:0A0A0B,100:111111&text=GEORGE%20TRUSHEVSKIY&fontColor=F4D35E&fontSize=40&fontAlign=50&animation=fadeIn" width="100%" alt="George Trushevskiy" />
+<img src="https://raw.githubusercontent.com/gtrush03/gtrush03/main/banner.svg" width="100%" alt="George Trushevskiy — SynthOS · Hire no one. Run everything." />
 
 <a href="https://trusynth.com">
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=900&color=F4D35E&background=00000000&center=true&vCenter=true&width=680&height=50&lines=Hire+no+one.+Run+everything.;Building+SynthOS+%E2%80%94+the+AI+OS+for+a+company+of+one;Agentic+engineer+%E2%80%A2+ex-Google+Trust+%26+Safety" alt="Building SynthOS — hire no one, run everything" />
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=900&color=E6CF94&background=00000000&center=true&vCenter=true&width=680&height=50&lines=Hire+no+one.+Run+everything.;Building+SynthOS+%E2%80%94+the+AI+OS+for+a+company+of+one;Agentic+engineer+%E2%80%A2+ex-Google+Trust+%26+Safety" alt="Building SynthOS — hire no one, run everything" />
 </a>
 
 <br/>
@@ -14,13 +14,17 @@
 
 <br/><br/>
 
-<a href="https://trusynth.com"><img src="https://img.shields.io/badge/SynthOS-trusynth.com-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37" alt="trusynth.com" /></a>
-<a href="https://george.trusynth.com"><img src="https://img.shields.io/badge/Blog-george.trusynth.com-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="blog" /></a>
-<a href="mailto:jegortru@gmail.com"><img src="https://img.shields.io/badge/Email-jegortru@gmail.com-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="email" /></a>
+<a href="https://trusynth.com"><img src="https://img.shields.io/badge/SynthOS-trusynth.com-E6CF94?style=flat-square&labelColor=0A0A0B&color=E6CF94" alt="trusynth.com" /></a>
+<a href="https://george.trusynth.com"><img src="https://img.shields.io/badge/Blog-george.trusynth.com-E8E2D6?style=flat-square&labelColor=0A0A0B&color=2A2622" alt="blog" /></a>
+<a href="mailto:jegortru@gmail.com"><img src="https://img.shields.io/badge/Email-jegortru@gmail.com-E8E2D6?style=flat-square&labelColor=0A0A0B&color=2A2622" alt="email" /></a>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,30:928466,50:F2E8C8,70:928466,100:050505&width=100%25" width="100%" alt="" />
+
+</div>
 
 <!-- ════════════════════ NARRATIVE (left-aligned) ════════════════════ -->
 
@@ -38,7 +42,11 @@ Before this: Trust & Safety at **Google**, **ESCP**, and a creative studio in NY
 
 <sub>🔐 Local-first by principle — your keys, your data, your business. Approvals, audit logs, and spend limits as first-class features.</sub>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,30:928466,50:F2E8C8,70:928466,100:050505&width=100%25" width="100%" alt="" />
+
+</div>
 
 <!-- ════════════════════ STACK (centered) ════════════════════ -->
 
@@ -50,12 +58,12 @@ Before this: Trust & Safety at **Google**, **ESCP**, and a creative studio in NY
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude_API-D4AF37?style=flat-square&logo=anthropic&logoColor=0A0A0B&labelColor=0A0A0B&color=D4AF37" alt="Claude API" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="MCP" />
-<img src="https://img.shields.io/badge/OpenRouter-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="OpenRouter" />
-<img src="https://img.shields.io/badge/Gemini-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="Gemini" />
-<img src="https://img.shields.io/badge/Three.js%20%2F%20GLSL-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="Three.js / GLSL" />
-<img src="https://img.shields.io/badge/Foundry-D4AF37?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="Foundry" />
+<img src="https://img.shields.io/badge/Claude_API-E6CF94?style=flat-square&logo=anthropic&logoColor=0A0A0B&labelColor=0A0A0B&color=E6CF94" alt="Claude API" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-E8E2D6?style=flat-square&labelColor=0A0A0B&color=2A2622" alt="MCP" />
+<img src="https://img.shields.io/badge/OpenRouter-E8E2D6?style=flat-square&labelColor=0A0A0B&color=2A2622" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/Gemini-E8E2D6?style=flat-square&labelColor=0A0A0B&color=2A2622" alt="Gemini" />
+<img src="https://img.shields.io/badge/Three.js%20%2F%20GLSL-E8E2D6?style=flat-square&labelColor=0A0A0B&color=2A2622" alt="Three.js / GLSL" />
+<img src="https://img.shields.io/badge/Foundry-E6CF94?style=flat-square&labelColor=0A0A0B&color=5E5236" alt="Foundry" />
 
 <br/>
 
@@ -63,7 +71,11 @@ Before this: Trust & Safety at **Google**, **ESCP**, and a creative studio in NY
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,30:928466,50:F2E8C8,70:928466,100:050505&width=100%25" width="100%" alt="" />
+
+</div>
 
 <!-- ════════════════════ PROOF (centered table) ════════════════════ -->
 
@@ -111,7 +123,11 @@ Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per w
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,30:928466,50:F2E8C8,70:928466,100:050505&width=100%25" width="100%" alt="" />
+
+</div>
 
 <!-- ════════════════════ METRICS (centered) ════════════════════ -->
 
@@ -119,8 +135,8 @@ Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gtrush03&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&title_color=F4D35E&text_color=E8E2D6&icon_color=D4AF37&bg_color=0A0A0B&border_color=1C1C20&ring_color=D4AF37&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrush03&layout=compact&langs_count=8&card_width=320&hide=html,css,makefile,dockerfile,ruby&title_color=F4D35E&text_color=E8E2D6&icon_color=D4AF37&bg_color=0A0A0B&border_color=1C1C20&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gtrush03&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&title_color=E6CF94&text_color=E8E2D6&icon_color=D8C48E&bg_color=0A0A0B&border_color=2A2622&ring_color=F2E8C8&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrush03&layout=compact&langs_count=8&card_width=320&hide=html,css,makefile,dockerfile,ruby&title_color=E6CF94&text_color=E8E2D6&icon_color=D8C48E&bg_color=0A0A0B&border_color=2A2622&hide_border=true" alt="Top languages" />
 
 <br/>
 
@@ -128,11 +144,15 @@ Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per w
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gtrush03&custom_title=Shipping%20Activity&bg_color=0A0A0B&color=E8E2D6&title_color=F4D35E&line=D4AF37&point=F4D35E&area=true&area_color=D4AF37&hide_border=true&height=300" width="100%" alt="Shipping activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gtrush03&custom_title=Shipping%20Activity&bg_color=0A0A0B&color=E8E2D6&title_color=E6CF94&line=D8C48E&point=F2E8C8&area=true&area_color=928466&hide_border=true&height=300" width="100%" alt="Shipping activity" />
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,30:928466,50:F2E8C8,70:928466,100:050505&width=100%25" width="100%" alt="" />
+
+</div>
 
 <!-- ════════════════════ CLOSER (centered) ════════════════════ -->
 
@@ -146,6 +166,6 @@ Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per w
 
 See it live → <a href="https://trusynth.com"><b>trusynth.com</b></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:111111,100:0A0A0B&fontColor=D4AF37" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0E0E10,100:050505&fontColor=D8C48E" width="100%" alt="" />
 
 </div>
