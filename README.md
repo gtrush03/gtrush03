@@ -1,110 +1,151 @@
-<div align="center">
-
-# George Trushevskiy
-
-### Agentic Engineer
-
-*I design autonomous AI systems — multi-agent fleets, self-operating infrastructure, and AI that ships products on its own.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgetrushevskiy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://george.trusynth.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jegortru@gmail.com)
-
-</div>
-
----
-
-## About
-
-I build **agentic systems** — not apps with AI bolted on, but architectures where AI agents are the core runtime. My work sits at the intersection of autonomous agent orchestration, LLM-native infrastructure, and systems that operate with minimal human intervention.
-
-I've shipped **20+ autonomous systems in 8 weeks** — from a fully self-operating AI operations center running 24/7 on a Mac Mini M4 (8 daemon agents across 3 departments), to multi-agent scouting platforms with verified 81% prediction accuracy, to spatial AI agents that perceive and act in photorealistic 3D worlds.
-
-Previously: Google (Trust & Safety), ESCP Business School (Paris → Turin → Berlin), and a production studio generating €1.5M in client revenue before pivoting fully into agentic AI. Based in NYC, building at [TRU Synth](https://trusynth.com).
-
----
-
-## What I Build
-
-### 🧠 Autonomous Agent Systems
-Self-operating AI infrastructure — agent fleets that coordinate across departments, execute complex multi-step workflows, and run 24/7 without human supervision. I architect across the full agent stack: Claude API, Gemini API, MCP servers, agent memory, tool-use pipelines, file-based IPC, and inter-agent communication protocols.
-
-### ⚡ AI-Native Products at Velocity
-20+ products shipped in 8 weeks using Claude Code as the core development engine. 35+ Vercel deployments. Full-stack systems built in 48-hour hackathon sprints — multiple NYC hackathon wins. React 19, Vite, Supabase, Express 5 — optimized for maximum shipping speed.
-
-### 🌐 Spatial AI & LLM-Driven Robotics
-AI agents that inhabit 3D Gaussian splat environments, gesture-tracked world explorers, and robotic arm manipulation through LLM-driven control. MuJoCo WASM simulations with Gemini vision API for real-time perception and autonomous pick-and-place operations.
-
----
-
-## Tech Stack
+<!-- ════════════════════ HERO ════════════════════ -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,tailwind,nodejs,express,docker,supabase,postgres,vite,threejs&theme=dark" alt="Core Stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&color=0:0A0A0B,100:111111&text=GEORGE%20TRUSHEVSKIY&fontColor=F4D35E&fontSize=40&fontAlign=50&animation=fadeIn" width="100%" alt="George Trushevskiy" />
+
+<a href="https://trusynth.com">
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=900&color=F4D35E&background=00000000&center=true&vCenter=true&width=680&height=50&lines=Hire+no+one.+Run+everything.;Building+SynthOS+%E2%80%94+the+AI+OS+for+a+company+of+one;Agentic+engineer+%E2%80%A2+ex-Google+Trust+%26+Safety" alt="Building SynthOS — hire no one, run everything" />
+</a>
+
+<br/>
+
+<sub><i>Agentic engineer · founder of TRU · NYC</i></sub>
 
 <br/><br/>
 
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logo=openai&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-00B4D8?style=flat-square&logo=protocols.io&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo_WASM-FF6B35?style=flat-square&logo=robot-framework&logoColor=white)
-![Vercel](https://img.shields.io/badge/35+_Deployments-000000?style=flat-square&logo=vercel&logoColor=white)
+<a href="https://trusynth.com"><img src="https://img.shields.io/badge/SynthOS-trusynth.com-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37" alt="trusynth.com" /></a>
+<a href="https://george.trusynth.com"><img src="https://img.shields.io/badge/Blog-george.trusynth.com-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="blog" /></a>
+<a href="mailto:jegortru@gmail.com"><img src="https://img.shields.io/badge/Email-jegortru@gmail.com-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="email" /></a>
 
 </div>
 
 ---
 
-## Featured Projects
+<!-- ════════════════════ NARRATIVE (left-aligned) ════════════════════ -->
 
-| | Project | Description |
-|---|---------|-------------|
-| 🧠 | **[HACKERA](https://github.com/gtrush03/HACKERA)** — *AI World Cup Intelligence* | Multi-agent scouting system analyzing 10K+ data points with verified **81% prediction accuracy**. Live demo on GitHub Pages. |
-| 🤖 | **[Genie](https://github.com/gtrush03/genie)** — *Agentic Social Media Engine* | Autonomous Claude Code agents that ingest a social firehose, spin up isolated workspaces, and deploy finished products — zero human intervention. |
-| 🌌 | **[Oracle Society](https://github.com/gtrush03/oracle-society)** — *AI Agents in 3D Worlds* | Autonomous agents living in photorealistic Gaussian splat environments. Spatial audio, proximity-based conversations, 6 procedurally generated worlds. |
-| 👁️ | **[Oracle World Explorer](https://github.com/gtrush03/oracle-world-explorer)** — *Gesture-Tracked AI Navigator* | Head tracking + dual hand gesture control in 3D Gaussian splat worlds. Spider-Man web-slinging locomotion. Gemini Live conversational AI. |
-| 👻 | **[Ghost Treasury](https://github.com/gtrush03/ghost)** — *Autonomous Trading Agent* | AI agent executing live token swaps on Monad blockchain. Claude brain + Viem + Unlink SDK. Built in 48 hours. |
-| 🎬 | **[Greenroom](https://github.com/gtrush03/greenroom)** — *AI Production Studio* | 3 autonomous agents coordinating in encrypted group chat to produce creative content. |
+### 👋 About
 
----
+I build autonomous systems — and now the operating system they run on. I went from shipping **20+ autonomous systems in eight weeks** to building the OS that lets one person run a whole company.
 
-## Hackathon Wins
+Before this: Trust & Safety at **Google**, **ESCP**, and a creative studio in NYC.
 
-| Event | Project | Built |
-|-------|---------|-------|
-| 🏆 **Genie Hackathon** | Genie | Agentic social media — autonomous agents deploying products from a live firehose |
-| 🏆 **Claw Hack NYC** | Greenroom | 3 AI agents in encrypted group chat — autonomous production studio |
-| 🏆 **TRAE x MiniMax NYC** | Oracle Society | AI agents in photorealistic 3D Gaussian splat worlds |
-| 🏆 **WorldLabs Open World** | Oracle World Explorer | Gesture + head-tracked spatial AI navigator in 3D environments |
+### ⚡ Building now &nbsp;`@ TRU`
+
+**🧠 SynthOS** — the AI operating system for a company of one. A native macOS cockpit where agents are the runtime, not a chat box: **chat, terminal, browser, desktop, and voice** from one command center, over a knowledge vault you own, with every file kept on your Mac. Multi-agent, in parallel, delivering the finished artifact — not a transcript. **Hire no one. Run everything.** → **[trusynth.com](https://trusynth.com)**
+
+**⚒️ FORGE** — turn a private vault into a live product. Publish it as a **live MCP server** any agent can call, or a **one-line CLI** — scoped read-only by default, token-gated, and **revocable in one click**. The vault never leaves your Mac. → **[trusynth.com/forge](https://trusynth.com/forge)**
+
+<sub>🔐 Local-first by principle — your keys, your data, your business. Approvals, audit logs, and spend limits as first-class features.</sub>
 
 ---
 
-## Currently Building
+<!-- ════════════════════ STACK (centered) ════════════════════ -->
 
-- 🧠 **M4 Brain** — Fully autonomous AI operations center running 24/7. Fleet of 8 daemon agents across 3 departments (Operations, Specialists, Intelligence), persistent knowledge system with 33 runbooks, file-based IPC, cron-scheduled workflows.
-- ⚙️ **BizSynth** — AI-powered business operations platform. Multi-agent orchestration with Dockview pane system, real-time agent coordination, 172+ tests passing.
-- 🦾 **TRU Robotics** — LLM-driven robotic arm manipulation. Dual Franka Panda robots in MuJoCo WASM, Gemini vision for real-time perception, chat-driven autonomous pick-and-place.
-- 🔧 **Claude Code Skills** — 29+ custom skills powering automated outreach, research pipelines, and agent orchestration loops.
-
----
-
-## GitHub Stats
+### 🧱 Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtrush03&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://skillicons.dev/icons?i=ts,js,python,swift,solidity,react,nextjs,nodejs,threejs,tailwind,supabase,docker&theme=dark" alt="tech stack" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrush03&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude_API-D4AF37?style=flat-square&logo=anthropic&logoColor=0A0A0B&labelColor=0A0A0B&color=D4AF37" alt="Claude API" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="MCP" />
+<img src="https://img.shields.io/badge/OpenRouter-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/Gemini-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="Gemini" />
+<img src="https://img.shields.io/badge/Three.js%20%2F%20GLSL-E8E2D6?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="Three.js / GLSL" />
+<img src="https://img.shields.io/badge/Foundry-D4AF37?style=flat-square&labelColor=0A0A0B&color=1C1C20" alt="Foundry" />
+
+<br/>
+
+<sub>TypeScript · Python · Swift (native macOS) · Solidity · Three.js / WebGL / GLSL · Claude SDK · MCP · Bash</sub>
 
 </div>
 
 ---
 
+<!-- ════════════════════ PROOF (centered table) ════════════════════ -->
+
+### 🛠️ Featured work
+
+> The throughline across every repo below: **autonomous multi-agent systems wired to real execution rails** — agents that trade on-chain in private, wake from a voice command and ship, live inside 3D worlds, or open funded production rooms with no human in the loop.
+
 <div align="center">
 
-*Ex-Google · ESCP Business School · TRU Synth · 80+ repos · 35+ Vercel deployments*
+| Project | What it is | Proof |
+|---|---|---|
+| **[SynthOS](https://trusynth.com)** | The AI OS for a company of one — native macOS, agents as the runtime | Live · trusynth.com |
+| **[HACKERA](https://github.com/gtrush03/HACKERA)** | Multi-agent World-Cup scouting — scored **665 players across all 64 matches** of the 2022 World Cup | [Live demo](https://gtrush03.github.io/HACKERA/app.html) · self-reported 81% backtest (13/16) |
+| **[genie](https://github.com/gtrush03/genie)** | Say *"genie"* into a video → an ephemeral Claude Code instance wakes with browser + shell rails, ships the wish, reports back | Voice → autonomous-deploy pipeline · Claude SDK + MCP |
+| **[ghost](https://github.com/gtrush03/ghost)** | Privacy-preserving AI DAO treasury — a Claude agent trades a **shielded pool on Monad** while members deposit openly | ZK unshield→swap→reshield · on-chain `GhostVault.sol` guardrails |
+| **[oracle-society](https://github.com/gtrush03/oracle-society)** | AI agents that *live* inside photorealistic 3D Gaussian-splat worlds and reshape them mid-conversation | Three.js + splats · Gemini Live · MiniMax · MediaPipe |
+| **[oracle-world-explorer](https://github.com/gtrush03/oracle-world-explorer)** | Navigate AI-generated splat worlds with head tracking + hand gestures — **no controller, no headset, just a webcam** | MediaPipe Hands/FaceMesh · raycast collision |
+| **[greenroom](https://github.com/gtrush03/greenroom)** | An AI production studio inside an encrypted group chat — 3 agents open funded rooms in **under 90s**, no human in the loop | XMTP encrypted chat · gateway agents · QR onboarding |
 
-**I don't just use AI — I build systems where AI agents are the product.**
+</div>
+
+<sub>🛠 Also: **[claude-starter-kit](https://github.com/gtrush03/claude-starter-kit)** — a drop-in Claude Code setup (auto/bypass mode, context-% statusline, done-chime). Plus 150+ shipped agent-generated micro-deploys not listed here.</sub>
+
+<div align="center">
+
+<details>
+<summary><b>🏆 Serial hackathon shipper — six agentic products across NYC's 2026 circuit</b></summary>
+
+<br/>
+
+Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per weekend. The spread of sponsors is the flex: **Unlink × Monad · Betaworks/MischiefClaw · TRAE × MiniMax · World Labs · Claw Hack.** Every entry shipped a *running* build with real execution rails — not a slide deck.
+
+| # | Event | Build | The hook |
+|---|---|---|---|
+| 1 | **Ship Private. Ship Fast.** — Unlink × Monad <sub>(Feb 27 – Mar 1)</sub> | **[ghost](https://github.com/gtrush03/ghost)** | An AI agent trades a *shielded* pool secretly on Monad while members deposit openly — ZK unshield/swap/reshield with 3-layer rogue-AI guardrails. |
+| 2 | **MischiefClaw** — Betaworks NYC <sub>(April)</sub> | **[genie](https://github.com/gtrush03/genie)** | Voice-triggered autonomous agent: a wish spoken into a video wakes a Claude Code instance that browses, builds, deploys, and reports back. |
+| 3 | **TRAE × MiniMax NYC** <sub>(Mar 30)</sub> | **[oracle-society](https://github.com/gtrush03/oracle-society)** | AI agents that live inside photorealistic 3D Gaussian-splat worlds and reshape them mid-conversation. |
+| 4 | **World Labs Open World** <sub>(March)</sub> | **[oracle-world-explorer](https://github.com/gtrush03/oracle-world-explorer)** | Gesture + head-tracking navigation of AI-generated splat worlds — webcam only, no headset. |
+| 5 | **Claw Hack NYC** <sub>(February)</sub> | **[greenroom](https://github.com/gtrush03/greenroom)** | 3 autonomous agents open a funded content-production room inside encrypted chat in under 90 seconds. |
+| 6 | **NYC AI Hackathon** <sub>(April)</sub> | **[HACKERA](https://github.com/gtrush03/HACKERA)** | Multi-agent World-Cup scouting — self-reported 81% backtest on breakout-transfer calls. |
+
+<sub>All six are accurately described as <b>"built at"</b> these events — working shipped products, not claimed prize placements. HACKERA's 81% is its own self-reported backtest (13 of 16).</sub>
+
+</details>
+
+</div>
+
+---
+
+<!-- ════════════════════ METRICS (centered) ════════════════════ -->
+
+### 📊 Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gtrush03&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&title_color=F4D35E&text_color=E8E2D6&icon_color=D4AF37&bg_color=0A0A0B&border_color=1C1C20&ring_color=D4AF37&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrush03&layout=compact&langs_count=8&card_width=320&hide=html,css,makefile,dockerfile,ruby&title_color=F4D35E&text_color=E8E2D6&icon_color=D4AF37&bg_color=0A0A0B&border_color=1C1C20&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<sub>Totals include private work via <code>count_private</code> — the public language mix skews to static deploys; the real breadth is the card on the right.</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gtrush03&custom_title=Shipping%20Activity&bg_color=0A0A0B&color=E8E2D6&title_color=F4D35E&line=D4AF37&point=F4D35E&area=true&area_color=D4AF37&hide_border=true&height=300" width="100%" alt="Shipping activity" />
+
+</div>
+
+---
+
+<!-- ════════════════════ CLOSER (centered) ════════════════════ -->
+
+<div align="center">
+
+### Building the OS for the company of one.
+
+<sub><i>Agents are the runtime. Your keys, your Mac, your business.</i></sub>
+
+<br/>
+
+See it live → <a href="https://trusynth.com"><b>trusynth.com</b></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:111111,100:0A0A0B&fontColor=D4AF37" width="100%" alt="" />
 
 </div>
