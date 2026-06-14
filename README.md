@@ -151,7 +151,7 @@ Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per w
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gtrush03&custom_title=Shipping%20Activity&bg_color=0A0A0B&color=E8E2D6&title_color=E6CF94&line=D8C48E&point=F2E8C8&area=true&area_color=928466&hide_border=true&height=300" width="100%" alt="Shipping activity" />
+<img src="https://raw.githubusercontent.com/gtrush03/gtrush03/main/shipping-activity.svg" width="100%" alt="Shipping activity — real commit volume, private repos included" />
 
 </div>
 
