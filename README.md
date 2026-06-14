@@ -135,12 +135,19 @@ Six working multi-agent builds across NYC's 2026 AI/crypto circuit — one per w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gtrush03&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&title_color=E6CF94&text_color=E8E2D6&icon_color=D8C48E&bg_color=0A0A0B&border_color=2A2622&ring_color=F2E8C8&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrush03&layout=compact&langs_count=8&card_width=320&hide=html,css,makefile,dockerfile,ruby&title_color=E6CF94&text_color=E8E2D6&icon_color=D8C48E&bg_color=0A0A0B&border_color=2A2622&hide_border=true" alt="Top languages" />
+<img src="https://img.shields.io/badge/Public_Repos-197-E6CF94?style=flat-square&labelColor=0A0A0B" alt="197 public repos" />
+<img src="https://img.shields.io/badge/Shipped-20%2B_systems_in_8_weeks-E6CF94?style=flat-square&labelColor=0A0A0B" alt="20+ systems in 8 weeks" />
+<img src="https://img.shields.io/badge/Hackathons-6_agentic_builds-E6CF94?style=flat-square&labelColor=0A0A0B" alt="6 hackathon builds" />
+<img src="https://img.shields.io/badge/Live_Deploys-150%2B-E6CF94?style=flat-square&labelColor=0A0A0B" alt="150+ live deploys" />
+<img src="https://img.shields.io/badge/Built_by-AI_agents-E6CF94?style=flat-square&labelColor=0A0A0B" alt="agent-built" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrush03&layout=compact&langs_count=8&card_width=340&hide=html,css,makefile,dockerfile,ruby&title_color=E6CF94&text_color=E8E2D6&icon_color=D8C48E&bg_color=0A0A0B&border_color=2A2622&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<sub>Totals include private work via <code>count_private</code> — the public language mix skews to static deploys; the real breadth is the card on the right.</sub>
+<sub>Most of the work ships in private repos — public engagement metrics don't reflect it. The numbers above are the real signal; the card is the real stack (filtered past the static-deploy noise).</sub>
 
 <br/><br/>
 
