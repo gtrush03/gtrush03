@@ -27,7 +27,7 @@ These repositories show experiments and prototypes across agent workflows and in
 
 - **TRU Synth** — founder, building AI products and the systems behind them.
 - **Cognizant / Google project** — previous content-safety work supporting Google through Cognizant in Lisbon.
-- **ESCP Business School** — completed Bachelor in Management, Paris–Turin–Madrid.
+- **ESCP Business School** — completed Bachelor in Management, Paris–Turin–Berlin.
 
 I'm in **San Francisco**, with a focus on applied AI, product engineering, agent infrastructure and developer tools.
 
